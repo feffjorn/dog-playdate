@@ -5,7 +5,12 @@ body {
 
 /* Header*/
 header {
-    background-color: blue;
+    background-color: green;
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
 }
 
 /* Main Content */
@@ -15,5 +20,5 @@ main {
 
 /* Footer */
 footer {
-    background-color: green;
+    background-color: blue;
 }
