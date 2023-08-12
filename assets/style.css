@@ -1,0 +1,19 @@
+/* General style rules */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Header*/
+header {
+    background-color: blue;
+}
+
+/* Main Content */
+main {
+    background-color: red;
+}
+
+/* Footer */
+footer {
+    background-color: green;
+}
