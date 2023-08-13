@@ -27,6 +27,14 @@ main {
     height: 100vh;
 }
 
+h1, h2 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto 0 auto;
+}
+
 /* Footer */
 footer {
     background-color: #ffffff;
@@ -38,6 +46,7 @@ footer {
 
 #social-networks {
     text-align: center;
+    position: relative;
 }
 
 #social-networks i {
