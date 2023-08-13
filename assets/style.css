@@ -33,7 +33,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    height: 14vh;
+    height: 10vh;
 }
 
 #social-networks {
@@ -41,5 +41,5 @@ footer {
 }
 
 #social-networks i {
-    font-size: 500%;
+    font-size: 400%;
 }
