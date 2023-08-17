@@ -14,9 +14,14 @@ header a {
     text-decoration: none;
 }
 
-/* Keeping the same color on links even after they been visited */
-a:visited {
+/* Style for links */
+a:visited, a:link {
     color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 /* Main Content */
@@ -27,12 +32,22 @@ main {
     height: 100vh;
 }
 
-h1, h2 {
+h1, h2, h4 {
     text-align: center;
 }
 
-/* Center table on screen */
-table {
+/* About page */
+#about > a {
+    color: #ffffff;
+}
+
+#max > img {
+    width: 280px;
+    height: 280px;
+}
+
+/* Contact page */
+#form {
     margin: 0 auto 0 auto;
 }
 
@@ -52,4 +67,16 @@ footer {
 
 #social-networks i {
     font-size: 400%;
+}
+
+/* Media query: tablets and larger (576px and up) */
+@media screen and (min-width: 576px) {
+    #about {
+        margin: auto;
+        width: 50%;
+        }
+    #max {
+        margin: auto;
+        width: 20%;
+        }
 }
