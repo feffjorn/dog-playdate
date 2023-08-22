@@ -5,6 +5,10 @@ body {
     margin: 0;
 }
 
+h1, h3 {
+    text-align: center;
+}
+
 img {
     display: block;
     margin: 0 auto 0 auto;
@@ -40,8 +44,20 @@ main {
     height: 80vh;
 }
 
-h1, h3 {
+#main-content {
     text-align: center;
+}
+
+#adress {
+    text-align: center;
+}
+
+#times {
+    border: 0;
+    margin: 10px auto 0 auto;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 /* About page */
