@@ -1,12 +1,22 @@
 /* General style rules */
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightblue;
     margin: 0;
+}
+
+img {
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 30%;
+}
+
+td {
+    vertical-align: top;
 }
 
 /* Header*/
 header {
-    background-color: #ffffff;
     text-align: center;
 }
 
@@ -26,24 +36,21 @@ a:hover {
 
 /* Main Content */
 main {
-    background-color: #000000;
-    color: #ffffff;
     width: 100vw;
-    height: 100vh;
+    height: 80vh;
 }
 
-h1, h2, h4 {
+h1, h3 {
     text-align: center;
 }
 
 /* About page */
-#about > a {
-    color: #ffffff;
+#about {
+    margin: 0 auto 0 auto;
 }
 
-#max > img {
-    width: 280px;
-    height: 280px;
+#about > a {
+    color: #ffffff;
 }
 
 /* Contact page */
@@ -53,10 +60,9 @@ h1, h2, h4 {
 
 /* Footer */
 footer {
-    background-color: #ffffff;
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 100vw;
     height: 10vh;
 }
 
@@ -67,16 +73,4 @@ footer {
 
 #social-networks i {
     font-size: 400%;
-}
-
-/* Media query: tablets and larger (576px and up) */
-@media screen and (min-width: 576px) {
-    #about {
-        margin: auto;
-        width: 50%;
-        }
-    #max {
-        margin: auto;
-        width: 20%;
-        }
 }
