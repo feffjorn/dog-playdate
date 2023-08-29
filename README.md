@@ -35,6 +35,8 @@ Users will be able to find when we are on a specifik place and also have the cha
 
 ### Unfixed Bugs
 
+No unfixed bugs
+
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
