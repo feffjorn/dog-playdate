@@ -43,8 +43,9 @@ The live link can be found here - [Dog Playdate](https://fekadon.github.io/dog-p
 
 ### Content
 
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- All content was written by the developer.
 
 ### Media
 
-- The photo in the about section is my dog. Used a free .webp converter before uploading it.
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
+- The image in the about section were created by developer.
