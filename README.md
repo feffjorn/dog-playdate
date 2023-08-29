@@ -23,10 +23,15 @@ Users will be able to find when we are on a specifik place and also have the cha
 
 ### Validator Testing
 
+- HTML
+    - 
+
 - Accessibility
   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
 
+![Accessability rates](https://fekadon.github.io/dog-playdate/media/accessability_rates.png)
 
+![Accessability rates bottom](https://fekadon.github.io/dog-playdate/media/accessability_bottom.png)
 
 ### Unfixed Bugs
 
