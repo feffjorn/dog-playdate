@@ -4,7 +4,7 @@ The Dog Playdate is a website to try and find other dog owners with comparable d
 
 Users will be able to find when we are on a specifik place and also have the chance to arrange playdates with Max, my dog, at other times.
 
-![Accessability rates bottom](https://fekadon.github.io/dog-playdate/media/dog_playdate_mockup.png)
+![Accessability rates bottom](https://feffjorn.github.io/dog-playdate/media/dog_playdate_mockup.png)
 
 ## Features
 
@@ -50,9 +50,9 @@ Users will be able to find when we are on a specifik place and also have the cha
 - Accessibility
   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
 
-![Accessability rates](https://fekadon.github.io/dog-playdate/media/accessability_rates.png)
+![Accessability rates](https://feffjorn.github.io/dog-playdate/media/accessability_rates.png)
 
-![Accessability rates bottom](https://fekadon.github.io/dog-playdate/media/accessability_bottom.png)
+![Accessability rates bottom](https://feffjorn.github.io/dog-playdate/media/accessability_bottom.png)
 
 ### Unfixed Bugs
 
@@ -65,7 +65,7 @@ No unfixed bugs
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - [Dog Playdate](https://fekadon.github.io/dog-playdate/)
+The live link can be found here - [Dog Playdate](https://feffjorn.github.io/dog-playdate/)
 
 ## Credits
 
